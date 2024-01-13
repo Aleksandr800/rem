@@ -1,0 +1,39 @@
+.txt-txt{
+    background-color: rgb(62, 170, 76);
+    color: #04fab0;
+}
+
+.wrap{
+    background-color: rgb(62, 170, 76); 
+    color: #04fab0 
+}
+
+.worcapp--item{
+    text-align: center;
+    
+}
+
+.txt-txt{
+    text-align: center;
+}
+
+.wrap{
+    text-align: center;
+}
+
+.worcapp_block{
+    margin: 100px;
+}
+
+.worcapp--txt{
+    margin: 100px;
+}
+
+.section-block{
+    background: url(https://catherineasquithgallery.com/uploads/posts/2023-02/1676545986_catherineasquithgallery-com-p-fon-polinnogo-tsveta-231.jpg) center center no-repeat;
+    background-size: cover;
+    padding: 75px 0 150px 0;
+}
+
+
+

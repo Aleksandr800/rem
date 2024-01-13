@@ -1,0 +1,155 @@
+img{
+    max-width: 100px;
+    max-height: 100px;
+}
+
+*{
+    padding: 0; margin: 0;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.wrap{
+    max-width: 1080px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    max-width: 1330px;
+    margin: 0 auto;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+}
+
+.menu li{
+    margin-left: 80px;
+
+}
+
+.menu li a{
+    color:black ; text-decoration: none;
+}
+
+.menu li a:hover{
+    color: rgb(132, 250, 117);
+}
+
+.download__wrap{
+    background: url(https://api.rbsmi.ru/attachments/4a69df1f14b1e5ea97feca09a3780df1f51ab4f6/store/crop/0/0/633/263/1600/0/0/f14bb704ab5aaa97bcd3905115d1968ed3098917f5898ceeb787033704e5/7cac6f42933aa47d55e2102bb2868932.jpg) center center no-repeat;
+    background-size: cover;
+    padding: 75px 0 143px 0;
+}
+
+.download{
+    color: rgb(30, 255, 0);
+    text-align: center;
+}
+
+.download__txt{
+    font-weight: 700; font-size: 1.5rem;line-height: 2rem; margin-bottom: 20px;
+}
+
+.download__title{
+    font-weight: 700; font-size: 3rem;line-height: 5rem; margin-bottom: 30px;
+}
+
+.download__subtitle{
+    font-weight: 500; font-size: 1.5rem;line-height: 2rem; margin-bottom: 60px;
+}
+
+.btn{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border: 1px solid #FFFF;
+    border-radius: 30px;
+    padding: 16px 60px;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.btn--red{
+    border-color: rgb(255, 0, 0);
+    background-color: rgb(255, 0, 0);
+}
+
+.worcapp__wrap{
+    padding: 50px 0;
+}
+
+.parttitle{
+    font-size: 2.75rem; font-weight: 600; text-align: center; color: rgb(95, 247, 8); margin-bottom: 80px;
+}
+
+.worcapp--item{
+    display: flex; align-items:center ; justify-content: space-between; margin-bottom: 100px;
+}
+
+.worcapp__img{
+    width: 50%; text-align: center;
+}
+
+.worcapp__txt{
+    width: 100%;
+}
+
+.worcapp__txt h3{
+    color: rgb(27, 255, 6); font-weight: 700; font-size: 1.5rem; line-height: 3.5rem; margin-bottom: 20px;
+
+}
+
+.worcapp__txt h2{
+    color: rgb(25, 250, 5); font-weight: 700; font-size: 2.5rem; line-height: 3.5rem; margin-bottom: 30px;
+}
+
+.worcapp__txt{
+    color: rgba(101, 245, 6, 0.952); font-weight: 500; font-size: 1.5rem; line-height: 2.375rem; 
+}
+
+.footer__wrap{
+    padding: 70px 0;
+}
+
+.footer{
+    display: flex; justify-content: space-between; align-items: center;
+    color: black; font-size: 0.75rem;font-weight: 700;
+}
+
+.worcapp--item:last-child{
+    margin-bottom: 0px;
+}
+
+.logo{
+    box-shadow: 4px 4px 30px #5af302;
+}
+
+.footer{
+    box-shadow:  4px 4px 30px #5af302;
+}
+ 
+
+
+
+
+
+
+
+
+
